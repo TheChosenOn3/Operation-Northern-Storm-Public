@@ -15,7 +15,7 @@
 - **Campaign Persistent CSAR (Combat Search and Rescue):** Player-ejected pilots can be rescued by friendly helicopters and transported back to nearby FARPs.
 - **Balanced missions to make all airframes enjoyable.**
 - **FARPs and Dedicated Regions tailored for helicopter gameplay:** Helicopters stationed at FARPs will receive nearby missions within their allocated regions.
-- **Render Manager by Kukiric (LK Team):** Improves server performance significantly by despawning units that are out of range from players.
+- **Render Manager (LK Team):** Improves server performance significantly by despawning units that are out of range from players.
 
 ## DCT Mission Framework:
 The server utilizes the DCT Framework to provide an interactive mission system for players. Players can request missions available for your airframes by using the F10 menu.
